@@ -28,3 +28,6 @@ app.use(cors());
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+// TODO: Deploy to heroku
+// https://www.youtube.com/watch?v=ZGymN8aFsv4
